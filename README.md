@@ -1,6 +1,6 @@
 <h1>Hola, soy Juan!</h1>
 <h3>Si buscas un desarrollador de software con un enfoque creativo e innovador, ¡has encontrado a la persona adecuada!
-</h3> 
+</h3>
 
 Con más de cinco años de experiencia en el desarrollo de aplicaciones, tengo una sólida comprensión de las mejores
 prácticas y una habilidad probada para resolver problemas complejos. Me apasiona experimentar con nuevas tecnologías y
