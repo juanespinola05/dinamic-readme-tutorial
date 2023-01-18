@@ -98,6 +98,42 @@ contacto conmigo!
   </thead>
   <tbody>
  
+  <tr>
+    <td>
+      <a href="https://youtube.com/watch?v=DWRb05qosak">
+        <img
+          width="200"
+          src="https://i.ytimg.com/vi/DWRb05qosak/mqdefault.jpg"
+        />
+      </a>
+    </td>
+    <td>AdventJS on the fly #6: Creating Xmas decorations</td>
+  </tr>
+ 
+  <tr>
+    <td>
+      <a href="https://youtube.com/watch?v=gUxmFHvcXgk">
+        <img
+          width="200"
+          src="https://i.ytimg.com/vi/gUxmFHvcXgk/mqdefault.jpg"
+        />
+      </a>
+    </td>
+    <td>Practicando CSS desde cero #4: Sección de modelos</td>
+  </tr>
+ 
+  <tr>
+    <td>
+      <a href="https://youtube.com/watch?v=undefined">
+        <img
+          width="200"
+          src="https://i.ytimg.com/vi/jsvmxYNxtOY/mqdefault.jpg"
+        />
+      </a>
+    </td>
+    <td>Curso Frontend - Videos de apoyo</td>
+  </tr>
+ 
   </tbody>
 </table>
 <br />
